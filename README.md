@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Características principales
+Características principales
 
 - ✅ Diseño adaptable (responsive) con Bootstrap 5.
 - ✅ Secciones informativas sobre misión, visión y acciones sostenibles.
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧩 Estructura del sitio
+Estructura del sitio
 
 | Sección               | Descripción                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
@@ -27,7 +27,7 @@
 
 ---
 
-## 🖼️ Tecnologías utilizadas
+Tecnologías utilizadas
 
 - `HTML5` – estructura semántica
 - `CSS3` – estilos personalizados
